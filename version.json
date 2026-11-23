@@ -1,0 +1,14 @@
+{
+  "studio": "1.0.0",
+  "firmware": "1.0.2",
+  "notes": "固件 1.0.2：余光票根可以显示持有者名字。",
+  "studio_url": "https://pan.quark.cn/s/9c2175f1d0ac?pwd=Um1N",
+  "fw": {
+    "version": "1.0.2",
+    "file": "afterglow-fw-pro-1.0.2.zip",
+    "url": "firmware/afterglow-fw-pro-1.0.2.zip",
+    "size": 702856,
+    "sha256": "ebe56dd99690e50791563bb3ac8fdc293f728ebcf264807bb7a322465762fdf0",
+    "sig": "9069f889b3728d5cf4ad02e1b166c36ecc11f0db12637f066d7ef499fbb0717022d8ece89a65783a76caa3957920e50bccd51d8deda462419c4366de15fb690c"
+  }
+}
